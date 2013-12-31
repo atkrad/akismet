@@ -2,11 +2,14 @@
 
 <plugin>
     <name>Akismet</name>
-    <plugin_uri>https://github.com/atkrad/akismet</plugin_uri>
+    <url>https://github.com/atkrad/akismet</url>
     <description>Akismet checks your comments against the Akismet web service to see if they look like spam or not.
     </description>
+    <tags>Hurad, Plugins, Comments, Spam</tags>
     <version>0.1.1</version>
-    <author>Mohammad Abdoli Rad</author>
-    <author_uri>http://magzilla.org</author_uri>
+    <author>
+        <name>Mohammad Abdoli Rad</name>
+        <url>http://magzilla.org</url>
+    </author>
     <license>MIT</license>
 </plugin>
