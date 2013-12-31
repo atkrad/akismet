@@ -1,0 +1,25 @@
+{
+    "name": "atkrad/akismet",
+    "description": "Hurad Akismet Plugin",
+    "type": "hurad-plugin",
+    "keywords": ["Hurad", "Akismet", "plugin", "comments", "spam"],
+    "homepage": "https://github.com/atkrad/akismet",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mohammad Abdoli Rad",
+            "homepage": "http://magzilla.org"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/atkrad/akismet/issues",
+        "source": "https://github.com/atkrad/akismet"
+    },
+    "require": {
+        "php": ">=5.4",
+        "composer/installers": "*"
+    },
+    "extra": {
+        "installer-name": "Akismet"
+    }
+}
